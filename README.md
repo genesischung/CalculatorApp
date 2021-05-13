@@ -1,6 +1,8 @@
 # Android Calculator  
 A simple Android calculator app for Java III.  
-It behaves correctly for the sample sequence on the project description. Otherwise, it has made to match the behavior of the calculator app on iOS.  
+
+It behaves correctly for the sample sequence on the project description. Otherwise, it has been made to match the behavior of the calculator app on iOS.  
+
 The app has not been thoroughly tested but no known bug is remaining.
 
 ## Screenshot  
